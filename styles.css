@@ -1,0 +1,39 @@
+body
+{
+    margin: 0px;
+}
+
+.Hero
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    
+}
+
+.Hero, footer
+{
+    
+    background-color: #1F2937;
+}
+
+
+header
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    list-style: none;
+    
+}
+
+li
+{
+    display: inline-block;
+    padding: 10px;
+}
+
+main > h1
+{
+    color: #F9FaF8;
+}
